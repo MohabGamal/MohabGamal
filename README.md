@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <span style="color: #F7F670ff">Mohab</span></h1>
 <p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Zilla+slab&weight=500&pause=1000&color=F7F670&center=true&vCenter=true&width=435&lines=I+am+a+full-stack+Web+Developer;Have+a+computer+science+bachelor;Passionate+of+Blockchain+technology;JavaScript+FTW+%3AD"/>
-</p>
+</p> 
 
 - 🔭 I’m on a job hunt.
 - 👨‍💻 My top projects are available [here](##)
