@@ -5,7 +5,7 @@
 
 - 🔭 I’m on a job hunt.
 - 👨‍💻 My top projects are available [HERE!!](https://mohabgamal.github.io/Portfolio/)
-- 📫 How to reach me **mohabgamal112233@gmail.com**
+- 📫 How to reach me **m.gamalaldeen@nu.edu.eg**
 
 <h2 align="center">
 <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Play chess not checkers
